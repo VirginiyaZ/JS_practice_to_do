@@ -1,4 +1,4 @@
-console.log(3);
+// console.log(3);
 
 // "use strict";
 
@@ -10,11 +10,11 @@ console.log(3);
 // console.log(answer+5);
 
 // const answers = [];
-// // answers[0] = prompt('What is your name?', '');
-// // answers[1] = prompt('What is your family name?', '');
-// // answers[2] = prompt('What is your maiden name?', '');
+// answers[0] = prompt('What is your name?', '');
+// answers[1] = prompt('What is your family name?', '');
+// answers[2] = prompt('What is your maiden name?', '');
 
-// // document.write(answers);
+// document.write(answers);
 // console.log(typeof(answers));
 
 // let number = 5.6;
